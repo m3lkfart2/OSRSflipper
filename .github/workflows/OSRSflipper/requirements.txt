@@ -1,0 +1,10 @@
+requests
+pandas
+matplotlib
+openpyxl
+joblib
+scikit-learn
+plotly
+flask
+tkinter
+unittest
